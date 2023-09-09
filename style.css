@@ -34,6 +34,9 @@ body {
     align-items: center;
     justify-content: space-evenly;
   }
+section img{
+    background-color:#fff;
+}
   section .some{
     display: flex;
     flex-direction: column;
